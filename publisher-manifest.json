@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "834b4f67201143ed32c4f5e5",
+  "owner": "gbetgyv",
+  "repo": "page-0380d5cd495256022b55121e",
+  "title": "XFLASH",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0380d5cd495256022b55121e",
+      "a": "XFLASH",
+      "b": "",
+      "entity": "XFLASH",
+      "brand": "XFLASH",
+      "separator": "",
+      "path": "index.html",
+      "hash": "af67d621f8608b8c1c93380bcd893d985a541bdc58f42a79884cdfecad7f68b7",
+      "content": {
+        "keyword1": "XFLASH",
+        "keyword2": "",
+        "primary_entity": "XFLASH",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "XFLASH 提供机场订阅与 VPN 网络加速服务，支持多设备客户端下载与清晰配置流程，覆盖流媒体、游戏与办公场景，欢迎通过官网了解套餐并获取官方下载。",
+          "AI_DESCRIPTION": "XFLASH 提供机场订阅与 VPN 网络加速服务，支持多设备客户端下载与清晰配置流程，覆盖流媒体、游戏与办公场景，欢迎通过官网了解套餐并获取官方下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{background:#f7f4ef;color:#1a2e1f;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.75}a{color:#1b4332;text-decoration:underline}a:hover{color:#0f2f20}header{background:#1e4a32;color:#f7f4ef;padding:12px 0}header .wrap,main .wrap,footer .wrap{max-width:960px;margin:0 auto;padding:0 16px}header nav{display:flex;flex-wrap:wrap;gap:12px 18px;align-items:center}header .brand{font-weight:700;letter-spacing:.04em;margin-right:8px;color:#f7f4ef;text-decoration:none}header nav a{color:#e7f0ea;text-decoration:none;font-size:14px}main{display:block}h1{font-size:clamp(1.85rem,5.2vw,2.75rem);line-height:1.25;color:#1b4332;font-weight:700;margin:12vh 0 5vh;padding:0;letter-spacing:.02em}h2{font-size:1.45rem;color:#1b4332;margin:2.2rem 0 .8rem;padding-top:.4rem}h3{font-size:1.08rem;color:#245c3a;margin:1.2rem 0 .5rem}p,li{max-width:42em}section{padding:8px 0 28px;border-bottom:1px solid #dce6de}section:last-of-type{border-bottom:0}.lead{font-size:1.05rem;color:#2a3d30;margin:0 0 1.5rem;max-width:38em}.plans{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0 8px}.plan{flex:1 1 260px;background:#fffefb;border:1px solid #c9d8cc;padding:18px 18px 16px;min-width:0}.plan.featured{border:2px solid #245c3a;background:#eef6f0}.plan h3{margin-top:0}.price{font-size:1.35rem;font-weight:700;color:#1b4332;margin:.2rem 0}.annual{font-size:.92rem;color:#3d5a46;margin:0 0 .6rem}.tag{display:inline-block;background:#245c3a;color:#f7f4ef;font-size:12px;padding:2px 8px;margin-bottom:8px}.plan ul{margin:0;padding-left:1.1em}.cta{display:inline-block;margin-top:12px;background:#245c3a;color:#f7f4ef;text-decoration:none;padding:8px 14px}.steps{counter-reset:step;list-style:none;padding:0;margin:0 0 1rem}.steps li{position:relative;padding:12px 12px 12px 52px;margin:0 0 10px;background:#fffefb;border:1px solid #d4e0d6}.steps li:before{counter-increment:step;content:counter(step);position:absolute;left:12px;top:12px;width:28px;height:28px;background:#245c3a;color:#f7f4ef;text-align:center;line-height:28px;font-weight:700;font-size:14px}details{background:#fffefb;border:1px solid #c9d8cc;margin:0 0 8px;padding:8px 12px}summary{font-weight:600;color:#1b4332}details p{margin:.5rem 0 .3rem}ul.plain{padding-left:1.2em;margin:0 0 1rem}.map a,.friends a{display:inline-block;margin:0 12px 8px 0}footer{background:#1e4a32;color:#d7e5db;padding:28px 0 36px;margin-top:24px;font-size:14px}footer a{color:#e7f0ea}.note{font-size:.92rem;color:#3d5a46}</style><header><div class=\"wrap\"><nav><a class=\"brand\" href=\"#\">XFLASH</a><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><div class=\"wrap\"><h1>XFLASH 官方网站</h1><p class=\"lead\">XFLASH 机场订阅与 VPN 网络加速服务官网。按清晰配置流程完成套餐选择、订阅导入与客户端下载，用于流媒体、游戏与跨境办公加速。</p><section id=\"intro\"><h2>品牌简介</h2><p>XFLASH 面向需要稳定跨境访问的个人与小团队，以机场订阅提供可导入主流客户端的节点服务。你在官网选定套餐后获得订阅地址，再于本地客户端中更新节点、选择线路并开启系统代理，即可完成网络加速，而无需绑定单一封闭应用。</p><p>服务强调可复现的操作路径：订阅兼容 Clash 生态及常见代理核心，覆盖 Windows、macOS、iOS、Android。基础线路适合日常网页与轻量视频；旗舰与团队方案增加流量配额、同时在线设备数，以及面向游戏延迟的 IPLC 专线与原生流媒体解锁节点。</p><p>本页是 XFLASH 官网说明页，集中展示套餐、使用场景、逐步配置说明、客户端官方下载入口与常见问题，便于对照完成首次接入。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>按流量、设备数与线路能力选择。年付价格在月价基础上给出明确合计，便于对照预算。以下为当前官网公示方案。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#guide\">按流程配置</a></article><article class=\"plan featured\"><p class=\"tag\">重点推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#guide\">按流程配置</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">按流程配置</a></article></div><p class=\"note\">流量按实际代理消耗计量。同时在线设备数以订阅侧会话为准。具体节点名称以客户端更新后的列表为准。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>海外流媒体与内容访问</h3><p>基础版覆盖常见平台的基础解锁需求；旗舰版与团队版强调全节点原生流媒体解锁，减少因公共线路被识别而导致的播放失败。适合追剧、音乐库与公开课程访问。</p><h3>游戏加速与实时对战</h3><p>旗舰版提供 IPLC 专线游戏加速优化，用于降低跨境对战、登录与补丁下载中的抖动。请在客户端中优先选择标注专线或低延迟的游戏向节点，并关闭其他占用带宽的下载任务。</p><h3>远程办公与开发协作</h3><p>用于访问代码托管、云控制台、文档与会议工具。团队版支持更多设备同时在线与企业定制路由，可把办公域名走稳定线路、其余流量走默认规则，减少全局代理对内网打印机或局域网服务的干扰。</p><h3>学术资料与公开数据</h3><p>适合检索国际期刊入口、预印本与公开数据集。建议使用规则分流，仅对学术域名启用代理，以节省流量并保持本地网络访问国内站点的速度。</p></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>XFLASH 的核心是「订阅地址 + 本地客户端」。按下列顺序操作，可在多数系统上完成首次连接。请将本段作为官网标准配置流程对照。</p><ol class=\"steps\"><li><strong>选择套餐并完成开通。</strong>在本页确认基础版、旗舰版或团队版的流量与设备上限，按月或按年开通后，进入用户中心复制专属订阅链接。不要把订阅链接发到公开群组。</li><li><strong>确认设备与系统。</strong>电脑优先 Clash 系或 v2rayN 等图形客户端；iPhone/iPad 使用兼容订阅的商店应用；Android 使用 Clash Meta 类应用。路由器用户需确认插件支持订阅更新。</li><li><strong>下载并安装客户端。</strong>前往下方「客户端官方下载」按系统选择，只从官网列出的名称对应的正规渠道安装，避免带捆绑的修改包。</li><li><strong>导入订阅。</strong>在客户端找到「订阅 / Profiles / 配置」入口，粘贴 XFLASH 订阅 URL 并保存。部分 iOS 客户端支持一键打开订阅链接完成添加。</li><li><strong>更新节点并测试延迟。</strong>执行「更新订阅」，等待节点列表刷新。使用延迟测试或轻量连通检测，挑选当前时段较低延迟的节点，游戏场景优先专线。</li><li><strong>开启系统代理或 TUN。</strong>普通浏览可开系统代理；需要接管 UDP 或游戏流量时启用 TUN / 增强模式。浏览器若自带代理设置，避免与系统代理重复导致无法上网。</li><li><strong>用规则分流。</strong>建议开启规则模式：国内直连、海外走代理。可按需要把流媒体、游戏或办公域名加入代理列表。全局模式仅用于排查，不建议长期使用。</li></ol><h3>Clash 系（Windows / macOS / Android）</h3><p>新建配置，类型选择订阅 URL，粘贴地址后更新。代理模式选 Rule。系统代理开启后，可在菜单中切换节点。若浏览器无法访问，检查是否漏开「设置为系统代理」。Android 需按系统引导授予 VPN 权限。</p><h3>iOS 客户端</h3><p>安装完成后，通过「添加订阅」粘贴链接，允许添加 VPN 配置。连接前更新一次节点。若提示配置无效，核对链接是否完整、套餐是否仍在有效期。</p><h3>Windows v2rayN 等核心图形界面</h3><p>订阅分组中添加地址并更新。选择兼容协议的节点，开启系统代理。若仅浏览器需要加速，可只为浏览器安装独立代理扩展并指向本地端口，但需与客户端监听端口一致。</p><h3>连接失败时的检查顺序</h3><p>核对系统时间是否准确；更新订阅；更换节点；关闭冲突的其他加速软件；检查流量是否用尽；将模式从全局改回规则后再试。仍失败时通过套餐对应的工单渠道提供客户端日志中的错误摘要（不要发送完整订阅链接）。</p></section><section id=\"download\"><h2>客户端官方下载</h2><p>XFLASH 以订阅方式工作，需配合第三方开源或商店客户端。以下名称对应常见、可导入机场订阅的客户端类型。请在官网下载区按操作系统选择，安装后回到配置流程导入订阅。</p><ul class=\"plain\"><li><a href=\"#guide\">Windows：Clash 系图形客户端 / v2rayN</a></li><li><a href=\"#guide\">macOS：Clash 系客户端</a></li><li><a href=\"#guide\">Android：Clash Meta 类应用</a></li><li><a href=\"#guide\">iOS：兼容订阅的商店客户端（需系统 VPN 权限）</a></li><li><a href=\"#guide\">路由器：支持订阅更新的插件环境</a></li></ul><p class=\"note\">本站提供配置说明与官网下载指引，不在页面内嵌安装包。获取订阅后请立即在客户端内更新节点，并妥善保管链接。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>XFLASH 是什么？机场订阅和传统 VPN 有何不同？</summary><p>XFLASH 是提供节点订阅的机场服务。你在官网开通套餐后得到订阅地址，用 Clash 等客户端拉取节点并按规则分流。传统单一 VPN 应用通常绑定自家 App 与固定线路；订阅模式便于切换节点、协议与分流规则，也方便多设备共用同一套餐额度。</p></details><details><summary>如何从官网完成客户端下载并第一次连上？</summary><p>先选定套餐拿到订阅链接，再按本页下载区选择对应系统的客户端安装。打开客户端，粘贴订阅并更新，选择延迟较低的节点，开启系统代理或 TUN。详细顺序见「配置流程与操作说明」七个步骤，建议首次接入时逐步勾对。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>轻度网页与基础流媒体、设备不超过三台，选基础版。需要更高流量、五台设备、原生流媒体与 IPLC 游戏向线路，选旗舰版。多人共用、设备数多、需要高带宽节点或定制路由，选团队版。年付价格已在各方案中列出，便于按年规划。</p></details><details><summary>流量、设备数和同时在线如何理解？</summary><p>流量按代理实际转发字节累计，到量后需等待重置或升级。同时在线设备数限制并发会话，超出后新设备可能无法注册会话。闲置设备可在客户端断开，以释放名额。团队版额度更高，适合办公室或家庭多终端。</p></details><details><summary>IPLC 专线是否必须？普通线路能不能看视频？</summary><p>不是必须。普通节点池可满足网页、即时通讯与基础流媒体。IPLC 更适合对延迟和抖动敏感的游戏与部分实时场景。旗舰版包含专线优化说明，使用时应在客户端选择对应节点，而不是假设所有节点都是专线。</p></details><details><summary>订阅链接泄露了怎么办？</summary><p>立即在用户中心重置订阅地址，旧链接会失效。不要把链接发到论坛或群公告。重置后需在所有设备上替换新地址并重新更新。若发现流量异常增长，先重置再检查设备列表。</p></details><details><summary>支持哪些协议，会不会锁死某一个客户端？</summary><p>订阅通常以 Clash 兼容配置为主，并覆盖常见代理协议组合，具体以导入后的配置文件为准。你可以在不同系统使用不同客户端，只要能拉取同一订阅。本站不强制唯一官方 App，重点是按配置流程正确导入。</p></details></section><section id=\"ads\"><h2>合作与广告</h2><p>XFLASH 官网预留文字合作位，用于客户端文档、网络工具导航与合规技术博客互换展示。当前展示方向：开源客户端使用说明整理、规则分流入门、跨境办公网络卫生提示。合作内容以文字链呈现，不插入外部脚本或弹层。</p></section><section id=\"links\"><h2>友情链接</h2><p class=\"friends\"><a href=\"#download\">客户端下载说明</a><a href=\"#guide\">配置流程</a><a href=\"#faq\">常见问题</a><a href=\"#plans\">套餐方案</a><a href=\"#\">Clash 配置入门</a><a href=\"#\">分流规则备忘</a></p></section><section id=\"sitemap\"><h2>网站地图</h2><p class=\"map\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端官方下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作与广告</a><a href=\"#links\">友情链接</a></p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>XFLASH 官方网站 · 机场订阅与 VPN 网络加速 · 客户端下载与配置说明</p><p><a href=\"#\">官网首页</a> · <a href=\"#sitemap\">网站地图</a> · <a href=\"#\">canonical 页面</a></p><p>© XFLASH 保留对套餐说明与页面文案的更新权利。使用代理工具时请遵守所在地与目标站点的法律法规。</p></div></footer>",
+          "hash": "e73f3ce7bf3ff0fc9ac87160639d22a60c4c7a50ca77dbf128918a091269db97",
+          "seo": {
+            "title": "XFLASH 官网 - 机场订阅、VPN 梯子与网络加速客户端下载",
+            "keywords": "XFLASH,XFLASH机场,XFLASH VPN,XFLASH官网,机场订阅,VPN梯子,网络加速,加速器,客户端下载,官方下载,Clash,IPLC",
+            "description": "XFLASH 提供机场订阅与 VPN 网络加速服务，支持多设备客户端下载与清晰配置流程，覆盖流媒体、游戏与办公场景，欢迎通过官网了解套餐并获取官方下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bwoxarh.cn",
+    "host": "p-b7aac9c386.bwoxarh.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bwoxarh.cn",
+      "url": "https://bwoxarh.cn/",
+      "label": "TIGR",
+      "apex": "bwoxarh.cn",
+      "kind": null,
+      "identity": "bhkatbwmt/page-06d12e1ce66e36c52070a6de"
+    },
+    {
+      "host": "nexitallyeb.com",
+      "url": "https://nexitallyeb.com/",
+      "label": "XFLASH",
+      "apex": "nexitallyeb.com",
+      "kind": null,
+      "identity": "rtedbtqmng/page-caed3f2ee0473e1102056e57"
+    },
+    {
+      "host": "ytwwt.cn",
+      "url": "https://ytwwt.cn/",
+      "label": "XFLASH",
+      "apex": "ytwwt.cn",
+      "kind": null,
+      "identity": "xscbmkdx/page-69d50f48d2d2eebd95e83c2d"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7631e39357e4a0b3169d73c09a94e193e9e2f9cbfbd86d362e7fe5a9eb211cb3",
+    "sitemap.xml": "9b814b4710a7961da71e78219d176730efc8f7d48c102d8810cbe1e98f17f7e2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ad7a234f8b4a487a5334b2cb5d9560e85d104c6f3384edd778b7e5931ded6669",
+    "robots.txt": "56dfa14bcb95aea33aafedf1d689ad2bfe40112ac06bf7a4fb7d59390248f7a9",
+    "2a1ad0b016903289eaf19f143d4512ab.txt": "388a145d6153684d402bd8f7cdf7dd6039c92c452a262a4fbf89d9f5e3236c93"
+  },
+  "revision": "3cef031c07619b7323c08c7905e4200799ba24254210e71d2e42e809d09eb6a4"
+}
